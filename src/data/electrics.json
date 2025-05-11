@@ -5,5 +5,12 @@
     "image": "/images/f852c526-0841-4763-948f-64ca39014e66.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
+  },
+  {
+    "id": 2,
+    "name": "elkamal",
+    "image": "/images/52b15e91-f292-434b-aea9-5f66a6381cb4.jpg",
+    "originalPrice": 10.0,
+    "salePrice": 12.0
   }
 ]
