@@ -9,7 +9,7 @@ const ProductCards = ({products}) => {
                 className="rounded-lg border border-slate-300 overflow-hidden hover:shadow-xl transition-shadow duration-300"
               >
                 {/* Product Image */}
-                <div className="h-64 overflow-hidden">
+                <div className="h-48 overflow-hidden">
                   <img 
                     src={product.image} 
                     alt={product.name}
