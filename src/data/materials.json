@@ -12,5 +12,12 @@
     "image": "/images/ffab8d01-17b8-4810-a24a-ea54c5fea660.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
+  },
+  {
+    "id": 3,
+    "name": "elkamal",
+    "image": "/images/4182ddbe-a7eb-40f9-b710-15f2d1ced020.jpg",
+    "originalPrice": 10.0,
+    "salePrice": 12.0
   }
 ]
