@@ -13,6 +13,8 @@ const ProductCards = ({products}) => {
                   <img 
                     src={product.image} 
                     alt={product.name}
+                    loading="lazy"                          // Lazy loading
+                    decoding="async" 
                     className="w-full h-full object-cover"
                   />
                 </div>
