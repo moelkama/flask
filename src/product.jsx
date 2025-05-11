@@ -2,14 +2,14 @@ const ProductCards = ({products}) => {
     return (
       <div className="min-h-screen bg-white py-12 px-4 sm:px-6 lg:px-8">
         <div className="">
-          <div className=" grid grid-cols-1 grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+          <div className=" grid grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
             {products.map(product => (
               <div 
                 key={product.id} 
                 className="rounded-lg border border-slate-300 overflow-hidden hover:shadow-xl transition-shadow duration-300"
               >
                 {/* Product Image */}
-                <div className="h-48 overflow-hidden">
+                <div className="h-64 overflow-hidden">
                   <img 
                     src={product.image} 
                     alt={product.name}
