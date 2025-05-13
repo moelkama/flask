@@ -27,7 +27,7 @@ const ProductCards = ({products}) => {
                   {/* Price Section - Two lines */}
                   <div className="">
                     <p className="text-xl font-semibold text-gray-900">{product.salePrice} Dh</p>
-                    <p className="text-lg text-gray-500">{product.originalPrice}</p>
+                    {/* <p className="text-lg text-gray-500">{product.originalPrice}</p> */}
                   </div>
                 </div>
               </div>
