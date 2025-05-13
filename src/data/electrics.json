@@ -1,259 +1,273 @@
 [
   {
     "id": 1,
-    "name": "RGB \u0646\u064a\u0648",
+    "name": "Neon RGB - نيو ار جي بي",
     "image": "/images/7bdb3aea-d676-43e9-8af8-78e19d85f18c.jpg",
-    "originalPrice": 25.0,
-    "salePrice": 7.5
+    "originalPrice": 7.5,
+    "salePrice": 25.0
   },
   {
     "id": 2,
-    "name": "GOLD - \u0646\u064a\u0648 \u0630\u0647\u0628\u064a",
+    "name": "Neon GOLD - \u0646\u064a\u0648 \u0630\u0647\u0628\u064a",
     "image": "/images/fd67b73a-e165-4ae6-accb-7112e84e63e8.jpg",
-    "originalPrice": 10.0,
-    "salePrice": 12.0
+    "originalPrice": 7.5,
+    "salePrice": 15.0
   },
   {
     "id": 3,
-    "name": "NEW WHITE",
+    "name": "Neon WHITE - نيو ابيض",
     "image": "/images/b8588964-3f3d-4294-8524-341662ce35c4.jpg",
-    "originalPrice": 15.0,
-    "salePrice": 12.0
+    "originalPrice": 7.5,
+    "salePrice": 15.0
   },
   {
     "id": 4,
-    "name": "RGB",
+    "name": "Neon RGB - نيو ار جي بي",
     "image": "/images/4d29185b-e210-4f2c-a52e-b061f36706f2.jpg",
-    "originalPrice": 25.0,
-    "salePrice": 12.0
+    "originalPrice": 7.5,
+    "salePrice": 18.0
   },
   {
     "id": 5,
-    "name": "spoot INGELEC",
+    "name": "spot INGELEC - 7W - سبوت انجيليك",
     "image": "/images/4777a80d-3160-400a-aaaa-66a536d19fdc.jpg",
     "originalPrice": 18.0,
-    "salePrice": 12.0
+    "salePrice": 25.0
   },
   {
     "id": 6,
-    "name": "spoot WHITE",
+    "name": "spot V-Max WHITE - سبوت في ماكس ابيض",
     "image": "/images/1f984ff1-6773-43f9-8901-74c7d7a18b0f.jpg",
-    "originalPrice": 10.0,
+    "originalPrice": 8.0,
     "salePrice": 13.0
   },
   {
     "id": 7,
-    "name": "spoot BLACK",
+    "name": "spot eyes GOLD - سبوت ايس ذهبي",
     "image": "/images/54319803-3609-42eb-b3fe-c7c340b2a735.jpg",
-    "originalPrice": 10.0,
-    "salePrice": 12.0
+    "originalPrice": 8.0,
+    "salePrice": 13.0
   },
   {
     "id": 8,
-    "name": "spoot",
+    "name": "spot CRYSTAL - سبوت كريستال",
     "image": "/images/5d442e80-f0c5-4308-b9ce-06a05f6c6087.jpg",
-    "originalPrice": 10.0,
-    "salePrice": 12.0
+    "originalPrice": 8.0,
+    "salePrice": 15.0
   },
   {
     "id": 9,
-    "name": "spoot",
+    "name": "spot rouse - سبوت وردة",
     "image": "/images/326e4402-45b9-4b99-9c9c-7d2fc8a087cc.jpg",
-    "originalPrice": 10.0,
-    "salePrice": 12.0
+    "originalPrice": 12.0,
+    "salePrice": 25.0
   },
   {
     "id": 10,
-    "name": "spoot",
+    "name": "spot CRYSTAL - سبوت كريستال",
     "image": "/images/09cbe323-7c01-4d4b-8d37-ecd27a82a73c.jpg",
-    "originalPrice": 10.0,
-    "salePrice": 12.0
+    "originalPrice": 30.0,
+    "salePrice": 50.0
   },
   {
     "id": 11,
-    "name": "spoot",
+    "name": "spot Luxy black - سبوت لوكسي اسود",
     "image": "/images/e2ee7451-3ce3-44c5-846b-c29492675077.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 15.0
   },
   {
     "id": 12,
-    "name": "spoot INGELEC simple WHITE",
+    "name": "spot INGELEC - 3W - سبوت انجيليك",
     "image": "/images/383b5260-fb9c-44cd-869e-35e480cd35b5.jpg",
-    "originalPrice": 10.0,
-    "salePrice": 12.0
+    "originalPrice": 12.0,
+    "salePrice": 18.0
   },
   {
     "id": 13,
-    "name": "spoot",
+    "name": "spot Luxy WHITE - سبوت لوكسي ابيض",
     "image": "/images/873cc2d1-45a6-4e6e-ba3d-d15fdedb616e.jpg",
-    "originalPrice": 10.0,
-    "salePrice": 12.0
+    "originalPrice": 12.0,
+    "salePrice": 15.0
   },
   {
     "id": 14,
-    "name": "spoot",
+    "name": "spot Versace - سبوت فيرزاتشي",
     "image": "/images/8bea61dc-7c09-4cf5-9bd9-8007b8c91261.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 25.0
   },
   {
     "id": 15,
-    "name": "spoot",
+    "name": "spot GOLDEN WHITE - سبوت ذهبي ابيض",
     "image": "/images/ee0b7aa1-e957-47e4-8d26-882033a68f32.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 13.0
   },
   {
     "id": 16,
-    "name": "spoot",
+    "name": "spot GOLDEN BLACK - سبوت ذهبي اسود",
     "image": "/images/93910aac-3e44-48f0-a001-85f391dd5d69.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 13.0
   },
   {
     "id": 17,
-    "name": "boola",
+    "name": "Led V-Max - 7W - ليد في ماكس",
     "image": "/images/d1317dff-d7ff-4b30-8dac-a6051e6872d7.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 13.0
   },
   {
     "id": 18,
-    "name": "spoot boola",
+    "name": "Led GOLD - 7W - ليد كولد",
     "image": "/images/95afff88-a1b4-42a6-b80d-12628176ea00.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 13.0
   },
   {
     "id": 19,
-    "name": "boola",
+    "name": "Ola Led - بولة",
     "image": "/images/e5338672-3bd4-4fe9-a67b-fee7ca59b821.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 18.0
   },
   {
     "id": 20,
-    "name": "boola",
+    "name": "Ola Led INGELEC - 6W -  بولة انجيليك",
     "image": "/images/1357feec-5d71-4ab1-9b21-cf45d6b10cef.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 13.0
   },
   {
     "id": 21,
-    "name": "Large spoot - INGELEC WHITE",
+    "name": "Large spot INGELEC - 18W - سبوت انجيليك كبيرة",
     "image": "/images/f285da3c-ed84-412c-9ea8-8d20f3b8d4c2.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 60.0
   },
   {
     "id": 22,
     "name": "Large spoot - INGELEC WHITE",
-    "image": "/images/7f51c829-bae9-464e-b05e-4641d157c961.jpg",
+    "image": "/images/-bae9-464e-b05e-4641d157c961.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
   },
   {
     "id": 23,
-    "name": "Large spoot WHITE",
+    "name": "Large spot - سبوت بغريرة",
     "image": "/images/f531aed2-b318-4a30-b02b-a53ec03b7cea.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 40.0
   },
   {
     "id": 24,
-    "name": "Langasa",
+    "name": "prise INGELEC simple - ساروت انجيليك سامبل",
     "image": "/images/195f02af-4815-4996-9d53-648f8c18cb22.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 13.0
+  },
+  {
+    "id": 80,
+    "name": "prise INGELEC simple - ساروت انجيليك سامبل",
+    "image": "/images/195f02af-4815-4996-9d53-648f8c18cb22.jpg",
+    "originalPrice": 10.0,
+    "salePrice": 13.0
   },
   {
     "id": 25,
-    "name": "Langasa maro",
+    "name": "prise INGELEC simple maro - بريز انجيليك مارو",
     "image": "/images/289f947c-41f8-4eb8-8aeb-ecd0fcf25dd5.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 15.0
   },
   {
     "id": 26,
-    "name": "Sarot maro",
+    "name": "prise INGELEC simple maro - ساروت انجيليك مارو",
     "image": "/images/b5cd140b-b586-45b8-8aa5-231a93ba43af.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 15.0
   },
   {
     "id": 27,
-    "name": "sarot WHITE",
+    "name": "prise INGELEC simple - ساروت انجيليك",
     "image": "/images/1802afc2-e454-4722-a0ba-8abf37669bea.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 15.0
+  },
+  {
+    "id": 81,
+    "name": "prise INGELEC simple - بريز انجيليك",
+    "image": "/images/1802afc2-e454-4722-a0ba-8abf37669bea.jpg",
+    "originalPrice": 10.0,
+    "salePrice": 15.0
   },
   {
     "id": 28,
-    "name": "2 SAROT maro",
+    "name": "prise OLAP maro - 2 - ساروت اولاب مارو",
     "image": "/images/32d45884-30e3-44c1-937b-27fa08030faa.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
   },
   {
     "id": 29,
-    "name": "Langasa sonit maro",
+    "name": "prise OLAP maro - ساروت اولاب مارو",
     "image": "/images/66c7e913-5f16-4721-bb5d-0c0607b6d45a.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
   },
   {
     "id": 30,
-    "name": "Langasa Tv",
+    "name": "prise OLAP maro - ساروت اولاب مارو",
     "image": "/images/f01d1f12-f7aa-47f3-b8b9-894fc9fc1268.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
   },
   {
     "id": 31,
-    "name": "elkama",
+    "name": "prise OLAP maro - ساروت اولاب مارو",
     "image": "/images/9c0f78a8-7a5d-47f5-91dc-16ad7527b59e.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
   },
   {
     "id": 32,
-    "name": "Langasa Engelec maro",
+    "name": "prise OLAP maro - ساروت اولاب مارو",
     "image": "/images/8c4134f1-1604-4938-acdd-322bdf1ee873.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
   },
   {
     "id": 33,
-    "name": "rido sarot",
+    "name": "prise OLAP maro - ساروت اولاب مارو",
     "image": "/images/ce17a6a3-5713-450c-b603-61cefa47e9f8.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
   },
   {
     "id": 34,
-    "name": "elkama",
+    "name": "prise OLAP maro - ساروت اولاب مارو",
     "image": "/images/f5ec6f7e-d018-4681-b9ad-21de110dd384.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
   },
   {
     "id": 35,
-    "name": "3--langasa ",
+    "name": "prise - 3 - ساروت",
     "image": "/images/1c914269-40a8-4aa7-a319-fffb0f3ad48b.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
   },
   {
     "id": 36,
-    "name": "La range 4 Port",
+    "name": "Rallonge 4 Port - لارونج",
     "image": "/images/94555923-411f-4d35-852b-e0b8d5a5573b.jpg",
     "originalPrice": 37.0,
     "salePrice": 60.0
   },
   {
     "id": 37,
-    "name": "Larange 5m",
+    "name": "Rallonge - 5m - لارونج",
     "image": "/images/a7251177-8b47-4edd-aa7c-7c343a28f753.jpg",
     "originalPrice": 65.0,
     "salePrice": 80.0

@@ -6,7 +6,7 @@ const ProductCards = ({products}) => {
             {products.map(product => (
               <div 
                 key={product.id} 
-                className="rounded-lg border border-slate-300 overflow-hidden hover:shadow-xl transition-shadow duration-300"
+                className="rounded-lg border border-slate-300 overflow-hidden shadow-xl transition-shadow duration-300"
               >
                 {/* Product Image */}
                 <div className="h-48 overflow-hidden">
@@ -20,12 +20,12 @@ const ProductCards = ({products}) => {
                 </div>
                 
                 {/* Product Info */}
-                <div className="p-6">
+                <div className="p-4">
                   {/* Product Name */}
                   <h3 className="text-lg font-bold text-black mb-3">{product.name}</h3>
                   
                   {/* Price Section - Two lines */}
-                  <div className="mb-4">
+                  <div className="">
                     <p className="text-xl font-semibold text-gray-900">{product.salePrice} Dh</p>
                     <p className="text-lg text-gray-500">{product.originalPrice}</p>
                   </div>
