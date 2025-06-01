@@ -211,10 +211,10 @@
   },
   {
     "id": 34,
-    "name": "prise OLAP maro - (2P + T) - ساروت اولاب مارو",
+    "name": " - (2P + T) - ساروت اولاب مارو",
     "image": "/images/f5ec6f7e-d018-4681-b9ad-21de110dd384.jpg",
     "originalPrice": 10.0,
-    "salePrice": 40.0
+    "salePrice": 23.0
   },
   {
     "id": 32,
@@ -267,121 +267,128 @@
   },
   {
     "id": 38,
-    "name": "poita rouje",
+    "name": "poit rouje - 3 - بواطة حمراء",
     "image": "/images/3faf0aa3-d7c9-42a3-a31c-0e433c128d8f.jpg",
     "originalPrice": 1.0,
-    "salePrice": 12.0
+    "salePrice": 1.0
   },
   {
     "id": 39,
-    "name": "poita verte",
+    "name": "poita verte - 3 - بواطة خضرة",
     "image": "/images/04ab5042-3f7e-4a87-806d-804bfeac64c6.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 3.0
   },
   {
     "id": 35,
-    "name": "prise - 3 - ساروت",
+    "name": "double prise - بريز دوبل",
     "image": "/images/1c914269-40a8-4aa7-a319-fffb0f3ad48b.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 10.0
   },
   {
     "id": 40,
-    "name": "dwiya",
+    "name": "douie - دوية",
     "image": "/images/fd0bfd56-32ac-4a52-843f-70cf884cf057.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
   },
+    {
+    "id": 40,
+    "name": "douie - دوية",
+    "image": "/images/fd0bfd56-32ac-4a52-843f-70cf884cf057.jpg",
+    "originalPrice": 10.0,
+    "salePrice": 5.0
+  },
   {
     "id": 41,
-    "name": "Sonit",
+    "name": "Sonor - سونيط",
     "image": "/images/6993b414-5850-406b-a616-4ec609aa73ea.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 35.0
   },
   {
     "id": 42,
-    "name": "boolaaa",
+    "name": "lamp detecteur - لامب ديتكتور",
     "image": "/images/5e4d945d-8d0f-4df3-86b9-a8f93a6e1859.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 18.0
   },
   {
     "id": 43,
-    "name": "vizible",
+    "name": "fusible - فيزيبل",
     "image": "/images/9d95cdc6-d3c4-4b0e-afff-2a3614dabe41.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 18.0
   },
   {
     "id": 44,
-    "name": "domino",
+    "name": "domino - دومينو",
     "image": "/images/31273729-693a-4407-a65d-1b3328255d69.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 1.0
   },
   {
     "id": 45,
-    "name": "capotan ENGELEC",
+    "name": "capotan ENGELEC - 2x0.75 - كابوتان انجيليك",
     "image": "/images/64eb4686-e1b4-4167-b66f-3fff1a58508e.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 5.0
   },
   {
     "id": 46,
-    "name": "capotan Normal",
+    "name": "capotan Normal - 2x0.75 - كابوتان نورمال",
     "image": "/images/5a1e86f9-de6d-48f9-bd1c-28ec938ef463.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 4.0
   },
   {
     "id": 47,
-    "name": "cable electric sopel",
+    "name": "cable souple INGELEC - 1.5 - كابل سوبل انجيليك",
     "image": "/images/226ff3b9-41e1-48b0-bdb9-851b59885a78.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 3.50
   },
   {
     "id": 48,
-    "name": "magana li katkon bara fi zan9a",
+    "name": "Coffret compteur - كوفرلي كنتور",
     "image": "/images/b342317c-9b90-4ae2-9b1a-dbf855a3ce5d.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 130.0
   },
   {
     "id": 49,
-    "name": "dejanktor kbira",
+    "name": "Tableau - 14 - طابلو",
     "image": "/images/b04f3a96-0ed0-4e00-bbe4-6694ba506f6c.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 50.0
   },
   {
     "id": 50,
-    "name": "dijanktor sghira",
+    "name": "Tableau - 27 - طابلو",
     "image": "/images/72d0ddbf-6f05-45e7-b4ea-b9d8015494dd.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 90.0
   },
   {
     "id": 51,
-    "name": "dijanktor 9200",
+    "name": "disjoncteur - 40A - ديجانكتور",
     "image": "/images/7483276d-e978-4520-9e7f-333ca1495b2a.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 530.0
   },
   {
     "id": 52,
-    "name": "tiyo grey",
+    "name": "Tuyaux - تيو",
     "image": "/images/e57bd100-a65f-449b-a238-38029f14201e.jpg",
     "originalPrice": 10.0,
     "salePrice": 12.0
   },
   {
     "id": 53,
-    "name": "boola twiila",
+    "name": "Lamp large - بولة كبيرة",
     "image": "/images/22729921-5bbc-45a7-a090-5c48b2e0937f.jpg",
     "originalPrice": 10.0,
-    "salePrice": 12.0
+    "salePrice": 60
   }
 ]
